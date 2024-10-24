@@ -1,0 +1,19 @@
+1.在工具列空白右键-新建工具列按钮--空白按钮--完成；
+2.shift右键点击创建好的按钮，指令复制进去；
+3.把文件路径改一下；
+
+
+左键：
+
+导出选择的物件到sketchup
+
+_-Export "C:\Users\这里写你自己的用户名\Documents\blendsu\fromrhino.glb" 
+    _Enter
+
+右键：
+
+导入sktechup中的物体到rhino
+
+
+_-import "C:\Users\这里写你自己的用户名\Documents\blendsu\fromsu.skp" 
+    _Enter
